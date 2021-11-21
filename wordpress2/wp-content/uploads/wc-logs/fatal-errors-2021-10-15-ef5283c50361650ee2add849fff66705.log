@@ -1,0 +1,6 @@
+2021-10-15T16:49:30+00:00 CRITICAL syntax error, unexpected ';', expecting ')' dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\templates\single-product-reviews.php à la ligne 34
+
+2021-10-15T16:51:10+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE), expecting end of file dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\templates\single-product-reviews.php à la ligne 46
+
+2021-10-15T16:53:16+00:00 CRITICAL Cannot redeclare wp_enqueue_woocommerce_style() (previously declared in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\functions.php:79) dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\templates\single-product-reviews.php à la ligne 28
+

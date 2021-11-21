@@ -1,0 +1,2 @@
+2021-10-26T15:07:58+00:00 CRITICAL Cannot redeclare cloudways_short_des_product() (previously declared in C:\xampp\htdocs\wordpress2\wp-content\themes\theme-starter\woocommerce\content-product.php:58) dans C:\xampp\htdocs\wordpress2\wp-content\themes\theme-starter\woocommerce\content-product.php à la ligne 59
+

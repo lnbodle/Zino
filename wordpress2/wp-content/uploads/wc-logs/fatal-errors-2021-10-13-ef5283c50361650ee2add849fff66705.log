@@ -1,0 +1,4 @@
+2021-10-13T14:29:23+00:00 CRITICAL syntax error, unexpected ')' dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\index.php à la ligne 121
+
+2021-10-13T14:45:37+00:00 CRITICAL Object of class WP_Term could not be converted to string dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\index.php à la ligne 122
+

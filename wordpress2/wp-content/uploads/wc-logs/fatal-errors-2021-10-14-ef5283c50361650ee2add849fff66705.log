@@ -1,0 +1,333 @@
+2021-10-14T06:55:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::i_visible() in C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\templates\content-product.php:23
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template.php(772): require()
+#1 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\wamp64\\www\\w...', false)
+#2 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\templates\single-product\related.php(43): wc_get_template_part('content', 'product')
+#3 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\wamp64\\www\\w...')
+#4 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2024): wc_get_template('single-product/...', Array)
+#5 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1987): woocommerce_related_products(Array)
+#6 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(303): woocommerce_outp dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\templates\content-product.php à la ligne 23
+
+2021-10-14T07:48:07+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_Title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:10
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 10
+
+2021-10-14T07:48:54+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:10
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 10
+
+2021-10-14T07:49:33+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_Title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:10
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 10
+
+2021-10-14T07:51:50+00:00 CRITICAL Uncaught Error: Call to undefined function product__title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:10
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 10
+
+2021-10-14T07:52:15+00:00 CRITICAL Uncaught Error: Call to undefined function wc_Title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:10
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 10
+
+2021-10-14T07:58:21+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_titre() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T07:58:43+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T07:58:47+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:05:45+00:00 CRITICAL syntax error, unexpected 'amount' (T_STRING) dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 34
+
+2021-10-14T08:06:13+00:00 CRITICAL Uncaught Error: Call to undefined function product__title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:06:35+00:00 CRITICAL Uncaught Error: Call to undefined function product__title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:06:49+00:00 CRITICAL Uncaught Error: Call to undefined function product__title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:07:10+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_loop_product_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:07:26+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_woocommerce_loop_product_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:07:45+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_product_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:08:36+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:11:25+00:00 CRITICAL syntax error, unexpected 'amount' (T_STRING) dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 34
+
+2021-10-14T08:11:41+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_woocommerce_loop_product__title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:12:44+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_woocommerce_loop_product__title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:14:45+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_the_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:15:16+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_the_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:15:37+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_the_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:32
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 32
+
+2021-10-14T08:16:05+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_the_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:16:18+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_the_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:17:42+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_page_price() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:17:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function woocommerce_price(), 0 passed in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php on line 30 and at least 1 expected in C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-deprecated-functions.php:490
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php(30): woocommerce_price()
+#1 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#3 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#4 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-deprecated-functions.php à la ligne 490
+
+2021-10-14T08:19:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function esc_attr(), 0 passed in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php on line 30 and exactly 1 expected in C:\wamp64\www\wordpress2\wp-includes\formatting.php:4503
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php(30): esc_attr()
+#1 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#3 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#4 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-includes\formatting.php à la ligne 4503
+
+2021-10-14T08:22:08+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:22:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_price_html() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:24:56+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\templates\single-product\price.php:25
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php(30): include()
+#1 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#3 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#4 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\templates\single-product\price.php à la ligne 25
+
+2021-10-14T08:26:49+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:33:12+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_zone_name() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:33:42+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_zone_name() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:35:55+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_the_archive_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:36:46+00:00 CRITICAL Uncaught Error: Call to undefined function the_product_title() in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php:30
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 30
+
+2021-10-14T08:57:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_register_style(), 1 passed in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\functions.php on line 81 and at least 2 expected in C:\wamp64\www\wordpress2\wp-includes\functions.wp-styles.php:129
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\functions.php(81): wp_register_style('http://localhos...')
+#1 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(303): wp_enqueue_woocommerce_style('')
+#2 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\wordpress2\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\wordpress2\wp-includes\script-loader.php(2083): do_action('wp_enqueue_scri...')
+#5 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(303): wp_enqueue_scripts('')
+#6 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\wamp64\www\wordpress2\wp-includes\plugin.php(470): WP_Ho dans C:\wamp64\www\wordpress2\wp-includes\functions.wp-styles.php à la ligne 129
+
+2021-10-14T08:57:28+00:00 CRITICAL syntax error, unexpected ''/css/main.css'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\functions.php à la ligne 81
+
+2021-10-14T09:01:18+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_default_products_per_row() in C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\class-wc-query.php:502
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\class-wc-query.php(388): WC_Query->product_query(Object(WP_Query))
+#1 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(303): WC_Query->pre_get_posts(Object(WP_Query))
+#2 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\wamp64\www\wordpress2\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\wordpress2\wp-includes\class-wp-query.php(1784): do_action_ref_array('pre_get_posts', Array)
+#5 C:\wamp64\www\wordpress2\wp-includes\class-wp-query.php(3465): WP_Query->get_posts()
+#6 C:\wamp64\www\wordpress2\wp-includes\class-wp.php(629): WP_Query->query(Array)
+#7 C:\wamp64\www\wordpress2\wp-includes\class-wp.php(752): WP->query_posts()
+#8 C:\wamp64\www\wordpress2\wp-includes\functions.php(1291): WP- dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\class-wc-query.php à la ligne 502
+
+2021-10-14T09:15:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function woocommerce_subcategory_thumbnail(), 0 passed in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php on line 127 and exactly 1 expected in C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php:2603
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php(127): woocommerce_subcategory_thumbnail()
+#1 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#3 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#4 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php à la ligne 2603
+
+2021-10-14T09:16:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function woocommerce_subcategory_thumbnail(), 0 passed in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php on line 127 and exactly 1 expected in C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php:2603
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php(127): woocommerce_subcategory_thumbnail()
+#1 C:\wamp64\www\wordpress2\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress2\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#3 C:\wamp64\www\wordpress2\index.php(17): require('C:\\wamp64\\www\\w...')
+#4 {main}
+  thrown dans C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php à la ligne 2603
+
+2021-10-14T09:21:28+00:00 CRITICAL syntax error, unexpected '}', expecting end of file dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 167
+
+2021-10-14T09:21:51+00:00 CRITICAL syntax error, unexpected end of file dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce.php à la ligne 171
+
+2021-10-14T15:38:12+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on string in C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce\single-product\sale-flash.php:25
+Stack trace:
+#0 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1650): wc_get_template('single-product/...')
+#2 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(303): woocommerce_show_product_sale_flash('')
+#3 C:\wamp64\www\wordpress2\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 C:\wamp64\www\wordpress2\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce\content-single-product.php(43): do_action('woocommerce_bef...')
+#6 C:\wamp64\www\wordpress2\wp-includes\template.php(772): require('C:\\wamp64\\www\\w...')
+#7 C:\wamp64\www\wordpress2\wp-content\plugins\woocommerce\includes\wc-core-functio dans C:\wamp64\www\wordpress2\wp-content\themes\theme-starter\woocommerce\single-product\sale-flash.php à la ligne 25
+
